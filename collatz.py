@@ -1,5 +1,5 @@
 '''
-The this function returns a Collatz series and the Number of steps
+This function returns a Collatz series and the Number of steps
 
 '''
 
