@@ -3,10 +3,13 @@
 
 Other names: Hasse's problem, Syracuse problem, Kakutani problem, 3n+1 conjecture
 
-##### Paul Erdos:
+#### Paul Erdos:
 ###### " Mathematics is not yet ready for such problems"
 
-... and we're still trying
+#### Aim
+The aim of this project, is to find the general formula for the conjecture that gives the number of terms (Total Sequence Order - TSO) 
+by applying the concepts of programming or any tech related field.
+
 
 #### Contribution
 Make a PR, raise an issue or mail me direct contributing anything meaningful about the problem. 
