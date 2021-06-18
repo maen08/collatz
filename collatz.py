@@ -1,10 +1,7 @@
 '''
-This function returns a Collatz series and the Number of steps
+This function returns a Collatz series and the Number of steps (Total Sequence Order - TSO)
 
 '''
-
-
-
 
 
 def collatz(num):
@@ -30,6 +27,7 @@ def collatz(num):
         loop = num
         step += 1
     print('Collatz series:', series)
-    print('Number of steps:', step)
+    print('Number of steps (TSO):', step)
 
-# collatz(80)
+collatz(40)
+collatz(42)
