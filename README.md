@@ -8,7 +8,7 @@ Other names: Hasse's problem, Syracuse problem, Kakutani problem, 3n+1 conjectur
 
 #### Aim
 The aim of this project, is to find the general formula for the conjecture that gives the number of terms (Total Sequence Order - TSO) 
-by applying the concepts of programming or any tech related field.
+by applying the concepts of programming or any tech related field (AI/ML/NN).
 
 
 #### Contribution
