@@ -28,6 +28,7 @@ def collatz(num):
         step += 1
     print('Collatz series:', series)
     print('Number of steps (TSO):', step)
+    
 
 collatz(40)
 collatz(42)
